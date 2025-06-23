@@ -16,8 +16,10 @@
 
 <h2> 🤳 Hit Me Up!</h2>
 
+[<img align="left" alt="OliverDunn | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/iconfinder.svg" />][website]
 [<img align="left" alt="OliverDunn | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="OliverDunn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [website]:https://oliverdunndev.github.io/oliver-portfolio/
 [gmail]:https://oliverdunndev@gmail.com
