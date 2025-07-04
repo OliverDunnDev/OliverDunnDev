@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Machien Learning Stock price predictor (Python, pandas, sklearn)</b>
-  - [June 2025 stock price predictor ]([https://oliverdunndev.github.io/movie-app/](https://github.com/OliverDunnDev/Stockp-redictorJune2025))
+  - [June 2025 stock price predictor ](https://github.com/OliverDunnDev/Stockp-redictorJune2025)
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
