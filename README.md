@@ -5,6 +5,8 @@
 - <b>C# (.NET Desktop Applications)</b>
 
 - <b>Python</b>
+- <b>Machien Learning Stock price predictor (Python, pandas, sklearn)</b>
+  - [June 2025 stock price predictor ]([https://oliverdunndev.github.io/movie-app/](https://github.com/OliverDunnDev/Stockp-redictorJune2025))
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
