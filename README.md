@@ -9,6 +9,9 @@
 
 - <b>Full Stack Web App (React, APIs, tailwind, Javascript)</b>
   - [Movie database interface ](https://oliverdunndev.github.io/movie-app/)
+    
+- <b>Local Business brochure page (React, responsive design, tailwind, Javascript)</b>
+  - [Local Pizza shop Brochure page, showing contact info, menus, opening times, and even directiosn to the store!](https://github.com/OliverDunnDev/B-Side-Newland)
 
 
 
