@@ -7,11 +7,20 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
+- <b>Personal portfolio Site (React, responsive design, tailwind, Javascript, Vite)</b>
+  - My very Own personal portfolio Page, detailing my favourite projects, and a brief overview of my skills and experience!
+  - [Live Site]([https://oliverdunndev.github.io/B-Side-Newland/](https://oliverdunndev.github.io/oliver-portfolio/))
+  - [Github repo]([https://github.com/OliverDunnDev/B-Side-Newland](https://github.com/OliverDunnDev/oliver-portfolio))
+
 - <b>Full Stack Web App (React, APIs, tailwind, Javascript)</b>
-  - [Movie database interface ](https://oliverdunndev.github.io/movie-app/)
+  - Movie database interface, accessign a public API and allowing users to favourite certain films and search them up in real time!
+  - [Github Repo](https://github.com/OliverDunnDev/movie-app)
+  - [Live Site](https://oliverdunndev.github.io/movie-app/)
     
 - <b>Local Business brochure page (React, responsive design, tailwind, Javascript)</b>
-  - [Local Pizza shop Brochure page, showing contact info, menus, opening times, and even directiosn to the store!](https://github.com/OliverDunnDev/B-Side-Newland)
+  - Local Pizza shop Brochure page, showing contact info, menus, opening times, and even directiosn to the store!
+  - [Live Site](https://oliverdunndev.github.io/B-Side-Newland/)
+  - [Github repo](https://github.com/OliverDunnDev/B-Side-Newland)
 
 
 
