@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
-- <b>Machien Learning Stock price predictor (Python, pandas, sklearn)</b>
+- <b>Quantum SafeML</b>
+  - A research project, developing a proposed method of safety monitoring fro Quantum machine learning systems Using Statistical Distance metrics, published int he IMBSA 2025 conference
+  - [Live Site](https://plennock.github.io/Honours-Stage-Project/)
+  
+- <b>Machine Learning Stock price predictor (Python, pandas, sklearn)</b>
   - [June 2025 stock price predictor ](https://github.com/OliverDunnDev/Stockp-redictorJune2025)
 
 <h2>👨‍💻 Web Development Projects:</h2>
