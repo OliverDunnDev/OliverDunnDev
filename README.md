@@ -25,6 +25,11 @@
   - Local Pizza shop Brochure page, showing contact info, menus, opening times, and even directions to the store!
   - [Live Site](https://oliverdunndev.github.io/B-Side-Newland/)
   - [Github repo](https://github.com/OliverDunnDev/B-Side-Newland)
+ 
+  - <b>Simple to do list app (React, responsive design, tailwind, Javascript, Vite)</b>
+  - Users can manage little tasks, prioritising and deletign them, even adding new ones!
+  - [Live Site](https://github.com/OliverDunnDev/todolist)
+  - [Github repo](https://github.com/OliverDunnDevtodolist)
 
 
 
