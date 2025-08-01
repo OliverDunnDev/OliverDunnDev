@@ -46,6 +46,6 @@
 [<img align="left" alt="OliverDunn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[website]:https://oliverdunndev.github.io/oliver-portfolio/
+[website]:https://oliverdunndev.github.io/oliver-dunn/
 [gmail]:https://oliverdunndev@gmail.com
 [linkedin]: https://linkedin.com/in/oliver-dunn-a404a4251/
