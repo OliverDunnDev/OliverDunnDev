@@ -9,6 +9,11 @@
 - <b>Machine Learning Stock price predictor (Python, pandas, sklearn)</b>
   - [June 2025 stock price predictor ](https://github.com/OliverDunnDev/Stockp-redictorJune2025)
 
+- <b>Mp3 Music visualizer</b>
+  - A full stack application that lets users upload MP3 files and generates real-time musical analysis (tempo, beats, spectral data) with abstract visual feedback.
+  - [Live Site]([https://plennock.github.io/Honours-Stage-Project/](https://mp3visualizer.vercel.app/))
+  - [Github repo]([https://github.com/OliverDunnDev/oliver-portfolio](https://github.com/OliverDunnDev/mp3visualizer))
+
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Personal portfolio Site (React, responsive design, tailwind, Javascript, Vite)</b>
