@@ -18,12 +18,13 @@
 
 - <b>Ollyfy (React, APIs, tailwind, Javascript)</b>
   - Spotofy takes too long to upload my music, so i made my own spotify for all my demo tracks!
-  - [Github Repo](https://github.com/OliverDunnDev/movie-app)
-  - [Live Site](https://oliverdunndev.github.io/movie-app/)
+ - [Live Site](https://OliverDunnDev.github.io/ollyfy/)
+  - [Github repo](https://github.com/OliverDunnDev/ollyfy)
 
+  - 
 - <b>Personal portfolio Site (React, responsive design, tailwind, Javascript, Vite)</b>
   - My very Own personal portfolio Page, detailing my favourite projects, and a brief overview of my skills and experience!
-  - [Live Site](https://OliverDunnDev.github.io/ollyfy/))
+  - [Live Site](https://OliverDunnDev.github.io/ollyfy/)
   - [Github repo](https://github.com/OliverDunnDev/ollyfy)
 
 - <b>Movie interface Web App (React, APIs, tailwind, Javascript)</b>
